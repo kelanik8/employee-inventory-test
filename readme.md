@@ -1,6 +1,6 @@
 ## Quick Installation
 
-    git clone https://github.com/laravel/employee-inventory-test employee-inventory-test
+    git clone https://github.com/kelanik8/employee-inventory-test employee-inventory-test
 
     cd employee-inventory-test
 

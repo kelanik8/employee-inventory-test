@@ -13,6 +13,7 @@
 
 Route::get('/', 'ViewsController@home');
 Route::get('/create-employee', 'ViewsController@createEmployee');
+
 Route::get('/edit-employee/{id}', 'ViewsController@editEmployee');
 
 Auth::routes();
