@@ -91,15 +91,15 @@
     <script src="{{ asset('./js/plugins/bootstrap-notify.js') }}"></script>
     <script src="{{ asset('./js/dashboard.js') }}"></script>
     <script src="//cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
+    <script src="http://cdn.jsdelivr.net/npm/vue"></script>
 
     <script>
         // $(document).ready( function () {
         //     $('#employees-table').DataTable();
         // } );
     </script>
-    
+
     @yield('js-script')
 </body>
 </html>
